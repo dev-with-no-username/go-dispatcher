@@ -12,6 +12,7 @@ var (
 )
 
 type Payload struct {
+	Name string
 }
 
 // Job represents the job to be run
